@@ -54,6 +54,9 @@ group :development, :test do
 
   # Dotenv Rails
   gem "dotenv-rails"
+
+  # RSpec Rails
+  gem "rspec-rails"
 end
 
 group :development do
